@@ -20,11 +20,11 @@
     "@types/node": "20.2.4",
     "@types/react": "18.2.7",
     "@types/react-dom": "18.2.4",
-    "autoprefixer": "10.4.14",
+    "autoprefixer": "^10.4.14",
     "eslint": "8.41.0",
     "eslint-config-next": "13.4.4",
-    "next": "13.4.4",
-    "postcss": "8.4.23",
+    "next": "^13.5.6",
+    "postcss": "^8.4.32",
     "query-string": "^8.1.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
@@ -43,6 +43,6 @@
   "devDependencies": {
     "@types/uniqid": "^5.3.2",
     "encoding": "^0.1.13",
-    "supabase": "^1.64.2"
+    "supabase": "^1.127.3"
   }
 }
